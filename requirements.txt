@@ -1,10 +1,8 @@
 streamlit
 streamlit_option_menu
-gunicorn==19.7.1
-scikit-learn==1.2.0
-numpy==1.26.4
+gunicorn==20.1.0  # 또는 제거 가능
+scikit-learn==1.0.2  # 호환성 검토 필요
+numpy==1.24.2
 pandas
 plotly
-statsmodels==0.14.0
-setuptools>=42
-
+statsmodels==0.13.0  # 호환성 검토 필요
