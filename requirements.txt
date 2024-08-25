@@ -7,3 +7,4 @@ pandas
 plotly
 statsmodels==0.14.0
 setuptools
+pillow
