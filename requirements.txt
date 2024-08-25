@@ -2,7 +2,7 @@ streamlit
 streamlit_option_menu
 gunicorn
 scikit-learn
-numpy=
+numpy
 pandas
 plotly
 statsmodels
