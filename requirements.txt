@@ -7,8 +7,5 @@ pandas
 plotly
 statsmodels==0.14.0
 setuptools
-<<<<<<< HEAD
 pillow
-=======
-pillow
->>>>>>> d4be9ad9237cad54e49e6d60c907d71e43ef0635
+
